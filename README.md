@@ -15,7 +15,7 @@ Es la forma principal de colaborar en proyectos de código abierto y en equipos.
 4. Espera revisión y aprobación
 5. Los cambios se fusionan a `main`
 
-## Comandos utiles
+## Comandos útiles
 
 ```bash
 git checkout -b mi-rama   # crear rama
